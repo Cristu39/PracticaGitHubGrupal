@@ -16,6 +16,7 @@ public class Cristian {
     public Cristian(String nom, int edat){
         this.nom = nom;
         this.edat = edat;
+        System.out.println("Hola em dic Cristian");
     }
     public void Bernat(String nom, int edat){
         this.nomB = nom;
