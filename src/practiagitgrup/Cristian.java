@@ -16,7 +16,7 @@ public class Cristian {
     public Cristian(String nom, int edat){
         this.nom = nom;
         this.edat = edat;
-        System.out.println("Hola em dic Cristian");
+        System.out.println("Hola em dic Cristian i tinc 20 anys");
     }
     public void Bernat(String nom, int edat){
         this.nomB = nom;
