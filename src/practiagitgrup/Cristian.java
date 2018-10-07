@@ -21,5 +21,6 @@ public class Cristian {
     public void Bernat(String nom, int edat){
         this.nomB = nom;
         this.edatB = edat; 
+        System.out.println("Soc en Bernat i he modificat el codi");
     }
 }
